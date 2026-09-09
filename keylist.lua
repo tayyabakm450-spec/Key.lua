@@ -3,6 +3,13 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
+    ["KASHMIRY"] = {
+        type = "VIP",
+        expiry = "2027-12-31",
+        valid = true,
+        max_devices = 20,
+        SLOT = "4"
+    },
     ["QUARTER"] = {
         type = "VIP",
         expiry = "2027-12-31",
