@@ -4,7 +4,7 @@
 
 return {
     ["KASHMIRY100device"] = {
-        type = "VIP",
+        type = "BLOCKED",
         expiry = "2026-9-10",
         valid = true,
         max_devices = 100,
