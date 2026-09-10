@@ -17,11 +17,11 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["DEM123"] = {
-        type = "DEMO",
-        expiry = "2026-08-01",
+    ["AJ_HACKERxTAYYAB_VIP"] = {
+        type = "VIP",
+        expiry = "2026-09-21",
         valid = true,
-        max_devices = 5,
+        max_devices = 7,
         SLOT = "2"
     },
     ["KASHMIRY_PAID_USER"] = {
