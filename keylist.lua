@@ -3,7 +3,7 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
-    ["KASHMIRY100device"] = {
+    ["KASHMIRY100vice"] = {
         type = "VIP",
         expiry = "2026-9-10",
         valid = false,
@@ -17,14 +17,14 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["AJ_HACKERxTAYYAB_VIP"] = {
+    ["AJ_HACKERxTAYYAB_VP"] = {
         type = "VIP",
         expiry = "2026-09-21",
         valid = true,
         max_devices = 7,
         SLOT = "2"
     },
-    ["KASHMIRY_PAID_USER"] = {
+    ["KASHMIRY_PAID_USR"] = {
         type = "VIP",
         expiry = "2026-09-20",
         valid = true,
