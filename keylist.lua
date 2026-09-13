@@ -28,7 +28,7 @@ return {
         type = "VIP",
         expiry = "2026-09-20",
         valid = true,
-        max_devices = 4,
+        max_devices = 1,
         SLOT = "3"
     },
     ["BLOCKED"] = {
