@@ -14,7 +14,7 @@ return {
         type = "VIP",
         expiry = "2027-12-31",
         valid = true,
-        max_devices = 1,
+        max_devices = 2,
         SLOT = "1"
     },
     ["AJ_HACKERxTAYYAB_VP"] = {
