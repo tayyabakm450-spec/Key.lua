@@ -10,7 +10,7 @@ return {
         max_devices = 100,
         SLOT = "4"
     },
-    ["KASHMIRY"] = {
+    ["KASHMIRY1"] = {
         type = "VIP",
         expiry = "2027-12-31",
         valid = true,
