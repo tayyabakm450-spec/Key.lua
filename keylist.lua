@@ -17,11 +17,11 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-    ["AJ_HACKERxTAYYAB_VP"] = {
+    ["KASHMIRY_HAMZA_VP"] = {
         type = "VIP",
         expiry = "2026-09-21",
         valid = true,
-        max_devices = 7,
+        max_devices = 1,
         SLOT = "2"
     },
     ["KASHMIRY_PAID_USR"] = {
