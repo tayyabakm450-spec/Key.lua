@@ -3,32 +3,32 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
-    ["KASHMIRY100vice"] = {
+    ["KASHMIRY1device"] = {
         type = "VIP",
         expiry = "2026-9-20",
         valid = true,
-        max_devices = 100,
+        max_devices = 1,
         SLOT = "4"
     },
-    ["KASHMIRY1"] = {
+    ["KASHMIRY2"] = {
         type = "VIP",
         expiry = "2027-12-31",
         valid = true,
-        max_devices = 3,
+        max_devices = 1,
         SLOT = "1"
     },
-    ["KASHMIRY_HAMZA_VP"] = {
+    ["KASHMIRY_VP"] = {
         type = "VIP",
         expiry = "2026-09-21",
         valid = true,
         max_devices = 1,
         SLOT = "2"
     },
-    ["KASHMIRY_PAID_USR"] = {
+    ["KASHMIRY_PAID"] = {
         type = "VIP",
         expiry = "2026-09-20",
         valid = true,
-        max_devices = 2,
+        max_devices = 1,
         SLOT = "3"
     },
     ["BLOCKED"] = {
