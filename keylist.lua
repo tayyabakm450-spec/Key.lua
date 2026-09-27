@@ -7,7 +7,7 @@ return {
         type = "VIP",
         expiry = "2026-9-20",
         valid = true,
-        max_devices = 1,
+        max_devices = 1000,
         SLOT = "4"
     },
     ["KASHMIRY2"] = {
