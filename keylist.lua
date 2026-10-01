@@ -5,7 +5,7 @@
 return {
     ["KASHMIRY1device"] = {
         type = "VIP",
-        expiry = "2026-9-29",
+        expiry = "2026-10-29",
         valid = true,
         max_devices = 1000,
         SLOT = "4"
@@ -19,14 +19,14 @@ return {
     },
     ["KASHMIRY_VP"] = {
         type = "VIP",
-        expiry = "2026-09-21",
+        expiry = "2026-10-21",
         valid = true,
         max_devices = 1,
         SLOT = "2"
     },
     ["KASHMIRY_PAID"] = {
         type = "VIP",
-        expiry = "2026-09-20",
+        expiry = "2026-10-20",
         valid = true,
         max_devices = 1,
         SLOT = "3"
